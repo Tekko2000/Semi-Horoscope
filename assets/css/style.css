@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin: 0;
+}
+section{
+    text-align: center;
+    padding-top: 15%;
+    font-family: 'Roboto';
+    color:purple;
+}
+#txt{
+    width:200px;
+    outline: none;
+    padding: 5px 0;
+}
+
+#btn{
+    padding:5px 0;
+    width:150px;
+    margin-top: 20px;
+}
+#result{
+    padding-top: 10px;
+    margin:50px 0 0 42.5%;
+    width:300px;
+    height:320px;
+    box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.1);
+    display:none;
+    font-family: 'Roboto';
+}
+#warning{
+    padding-top: 10px;
+    display:none;
+    font-family: 'Roboto';
+    font-size: 25px;
+}
+#month{
+    color:blue;
+}
